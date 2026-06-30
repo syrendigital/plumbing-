@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://www.wasatchflowplumbing.com/sitemap.xml
